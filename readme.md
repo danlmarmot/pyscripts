@@ -1,4 +1,4 @@
-A repository for all my Python scripts and snippets.
+A repository for all my Python scripts and snippets and one-off programs
 
 ### Setup
 To use on Mac or Linux, setup a virtual environment.
